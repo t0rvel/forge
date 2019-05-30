@@ -1,0 +1,7 @@
+Right now, everything is packed into one file. We need to have a separate classes for screenshots and ftp engine.
+
+Add options for FTP to create, remove and edit folders or files.
+
+Add option for screenshot to convert in bas64 and ftp engine to read the same.
+
+Add option for configuration Object in local storage
