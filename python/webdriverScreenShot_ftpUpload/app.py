@@ -21,3 +21,7 @@ def screen_shot_ftp_feature(driver, close_driver):
 def clear_ftp_folder():
     ftp_configuration = fftp.FTPConfiguration("value", "value", "value", "shared/automation/screenShots")
     ss.clear_ftp_folder(ftp_configuration)
+
+    
+# screen_shot_ftp_feature(d, True)
+# clear_ftp_folder()
