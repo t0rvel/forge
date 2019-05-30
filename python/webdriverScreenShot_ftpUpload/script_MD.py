@@ -2,7 +2,7 @@ import ftplib
 import datetime
 from pathlib import Path
 import random
-import smoking.dragon6.models.ftpConfiguration as fft
+import models.ftpConfiguration as fft
 import sys
 
 
