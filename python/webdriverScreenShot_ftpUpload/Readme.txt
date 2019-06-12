@@ -1,3 +1,5 @@
+#Screenshot FTP Uploader
+
 - Script serves for getting the screen shot through Selenium Webdriver. 
 
 - Using that screen shot to upload to the FTP repository.
